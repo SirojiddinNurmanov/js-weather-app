@@ -42,7 +42,7 @@ function displayResults(weather){
 function dateBuilder(s){
     let months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Auogust', 'September', 'October', 'November', 'December' ];
     let days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday','Friday', 'Saturday'];
-    // tamam
+    // tamamxxx
     let day = days[s.getDay()];
     let date = s.getDate();
     let month = months[s.getMonth()];
